@@ -1,8 +1,9 @@
 -- CREATE TABLE statement
+-- IBM Db2 on Cloud
 /*The CREATE TABLE statement creates a table and its column headers
-	Also, for the columns we define the datatype and the optional parameters
+  Also, for the columns we define the datatype and the optional parameters
 
-The general syntax is
+The general syntax is:
 CREATE TABLE table
 (
 Column1 datatype optionalparameters,
