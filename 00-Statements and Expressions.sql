@@ -1,3 +1,4 @@
+/*
 DDL data definition statements 4
 CREATE TABLE, ALTER TABLE, DROP TABLE, TRUNCATE TABLE
 1 CREATE TABLE, creates table and columns but not rows
@@ -37,3 +38,4 @@ LIMIT defines how many rows are displayed
 5 OFFSET
 OFFSET instructs at which row to start attention if I define OFFSET 2, then it starts counting from row 3
 when LIMIT and OFFSET are used together, OFFSET is placed last
+*/
